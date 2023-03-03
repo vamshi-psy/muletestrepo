@@ -37,8 +37,8 @@
 						<uri>https://anypoint.mulesoft.com</uri>
 						<target>mulenode1</target>
 						<targetType>server</targetType>
-						<username>reddsibb</username>
-						<password>Hello@800966</password>
+						<connectedAppClientId>4fe5e9a43b19497184a63434030a5be7</connectedAppClientId>
+						<connectedAppClientSecret>335463733f1d4467a2de16477Be1C6a1</connectedAppClientSecret>
 						<environment>Sandbox</environment>
 						<properties>
 							<key>value</key>
