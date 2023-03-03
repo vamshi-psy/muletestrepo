@@ -33,7 +33,7 @@
 				<extensions>true</extensions>
 				<configuration>
 					<armDeployment>
-						<muleVersion>4.4.0-20230123</muleVersion>
+						<muleVersion>4.4.0-20220824</muleVersion>
 						<uri>https://anypoint.mulesoft.com</uri>
 						<target>mulenode1</target>
 						<targetType>server</targetType>
